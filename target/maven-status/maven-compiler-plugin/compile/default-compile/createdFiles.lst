@@ -1,0 +1,7 @@
+com\tsystems\javaschool\tasks\pyramid\CannotBuildPyramidException.class
+com\tsystems\javaschool\tasks\calculator\Calculator.class
+com\tsystems\javaschool\tasks\currencyconverter\CurrencyConverter.class
+com\tsystems\javaschool\tasks\spreadsheet\Spreadsheet.class
+com\tsystems\javaschool\tasks\subsequence\Subsequence.class
+com\tsystems\javaschool\tasks\pyramid\PyramidBuilder.class
+com\tsystems\javaschool\tasks\currencyconverter\CannotConvertCurrencyException.class
